@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: be
-          image: olego700/be-exam:latest
+          image: jonathanmradai/be-exam:latest
           ports:
             - containerPort: 5001
           env:
